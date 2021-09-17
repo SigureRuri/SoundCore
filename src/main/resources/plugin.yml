@@ -1,0 +1,5 @@
+name: SoundCore
+version: '${version}'
+main: com.github.sigureruri.soundcore.SoundCore
+api-version: 1.17
+authors: [ SigureRuri ]
